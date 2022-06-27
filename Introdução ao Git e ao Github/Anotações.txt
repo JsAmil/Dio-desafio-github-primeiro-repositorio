@@ -1,0 +1,8 @@
+Comandos: 
+git status (status).
+git add. (adicionar ao github).
+git push origin main (puxar commit pro github).
+git clone (clonar para a máquina).
+ls (pastas).
+
+Fotos do GitBash salvas na Galeria.
